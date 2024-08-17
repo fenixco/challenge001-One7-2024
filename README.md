@@ -59,7 +59,7 @@ El usuario también puede desencriptar un mensaje que ha sido encriptado previam
 1. Clona este repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+    git clone https://github.com/fenixco/challenge001-One7-2024.git
     ```
 
 2. Abre el archivo `index.html` en tu navegador preferido.
